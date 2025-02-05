@@ -1,0 +1,5 @@
+#inside git ignore put this file name
+   secret 
+   auth 
+   DS_Store
+   #now if you do git status bcz of the ignore file it will not show the files
